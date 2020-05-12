@@ -1,6 +1,6 @@
 {
-  "name": "nice-ticks",
-  "version": "1.0.0",
+  "name": "@sourcegraph/nice-ticks",
+  "version": "1.0.0-fork.1",
   "description": "Nice Numbers for Graph Labels",
   "main": "dist/nice-ticks.js",
   "module": "src/index.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cenfun/nice-ticks.git"
+    "url": "git+https://github.com/sourcegraph/nice-ticks.git"
   },
   "keywords": [],
   "author": "",
